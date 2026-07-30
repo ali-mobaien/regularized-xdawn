@@ -92,6 +92,6 @@ Released under the MIT License.
 
 ---
 
-## Contact
+## Author
 
 Ali Mobaien  
