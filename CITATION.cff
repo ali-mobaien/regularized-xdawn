@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+title: "RxDAWN: Regularized xDAWN for ERP-Based Brain–Computer Interfaces"
+message: "If you use this software, please cite the associated publication."
+
+type: software
+
+authors:
+  - family-names: Mobaien
+    given-names: Ali
+      
+       orcid: "https://orcid.org/0000-0003-1874-4289"
+
+repository-code: "https://github.com/ali-mobaien/regularized-xdawn"
+
+license: MIT
+
+keywords:
+  - EEG
+  - ERP
+  - P300
+  - Brain-Computer Interface
+  - BCI
+  - xDAWN
+  - RxDAWN
+  - Signal Processing
+  - MATLAB
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Mobaien
+      given-names: Ali
+    - family-names: Boostani
+      given-names: Reza
+    - family-names: Sanei
+      given-names: Saeid
+
+  title: "Improving the performance of P300-based BCIs by mitigating the effects of stimuli-related evoked potentials through regularized spatial filtering"
+
+  journal: "Journal of Neural Engineering"
+
+  year: 2024
+
+  volume: 21
+
+  issue: 1
+
+  pages: "016023"
+
+  doi: "10.1088/1741-2552/ad2495"
